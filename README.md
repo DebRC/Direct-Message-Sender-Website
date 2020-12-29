@@ -1,2 +1,2 @@
 # Direct-Message-Sender-Website
-A website for the app Desktop Message Sender
+A website for the app Direct Message Sender
