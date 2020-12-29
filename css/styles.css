@@ -75,6 +75,11 @@ p
     font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+    color: rgba(0,0,0,.5);
+}
+.nav-link:hover
+{
+    color: black;
 }
 /* Download Buttons */
 .download-button
