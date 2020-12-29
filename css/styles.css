@@ -66,6 +66,10 @@ p
     font-size:1.5rem;
     color: #41494d;
 }
+.navbar-brand:hover
+{
+    color: rgb(41, 39, 39);
+}
 .nav-item
 {
     padding: 0 10px;
